@@ -1,0 +1,5 @@
+# AynaOTT Live TV Scraper
+# No external dependencies required
+# Uses Python standard library only
+#
+# Python 3.11+ recommended
