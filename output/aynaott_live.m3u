@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated: 2026-08-08 06:36:45 UTC
+# Generated: 2026-08-08 12:29:10 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
-# Total Channels: 240
+# Total Channels: 224
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="English, Channels, News",   	 USA TV [PAID]
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
@@ -24,9 +24,6 @@ https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a51-7442-8cdb-ea159a76af05" tvg-name="9x Jhakaas" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_85748078beef72409b728a4d01e37696_playmist_9x_jhakaas_400x400.jpg" group-title="Music, Hindi, Channels",9x Jhakaas [PAID]
 https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39b7-7227-9da8-c47c07ef8233" tvg-name="A Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_552c5631b1d8ba169911ab3d7bc3952a_playmist_a_sports_hd_400x400.jpg" group-title="Sports, Channels, Cricket",A Sports [PAID]
-https://tvsen3.aynascope.net/yn6gezcX/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b8e-7371-9211-d19b9ddac773" tvg-name="ABC 7 Bay" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_08717fb2d69f80063278b28057347175_playmist_abc_news_400x400.jpg" group-title="English, News, Channels",ABC 7 Bay [PAID]
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
@@ -103,9 +100,6 @@ https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3bcd-7563-bcde-bdb80df1c0ee" tvg-name="BRAVO" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_0bd125ebbc80065961e2e8d249fb5f9b_playmist_bravo400x400.jpg" group-title="Channels, English",BRAVO [PAID]
 https://tvsen3.aynaott.com/AXsdcQ8A/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3a0d-7518-a636-f6c0b389ed1e" tvg-name="BT Sports 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_5c48c1df205227964277087b833a9912_playmist_bt_sport_2400x400.jpg" group-title="Channels, Cricket, Sports",BT Sports 2 [PAID]
-https://tvsen3.aynascope.net/FCKU2jmP/index.m3u8
-
 #EXTINF:-1 tvg-id="019efa45-e602-76d0-b2f0-155f9f2b893d" tvg-name="BTV CTG" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg" group-title="Bangla, Channels",BTV CTG [PAID]
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
@@ -174,9 +168,6 @@ https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b84-75ce-b64d-bd376de18c49" tvg-name="CP 24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg" group-title="Channels, English, News",CP 24 [PAID]
 https://tvsen6.aynaott.com/cp24/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3a14-7288-a946-651b4b094d1e" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/328c4c2834a1a62319b9f1957c3ddac7" group-title="Kids, Channels",Cartoon Network
-https://tvsen3.aynascope.net/8PgGpDG5/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3943-7dff-ae3b-9b79fed284a3" tvg-name="Channel 24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png" group-title="News, Bangla, Channels",Channel 24 [PAID]
 https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
@@ -255,9 +246,6 @@ https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a1e-7c94-91e5-6b6755d5ab6b" tvg-name="Disney Channel" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_92666995d4995d2bb46b92598d2b3e48_playmist_disney_channel_400x400.jpg" group-title="Channels, Kids",Disney Channel [PAID]
 https://tvsen7.aynaott.com/disney/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3a16-7311-8273-ece0bb2e6d09" tvg-name="Disney Junior" tvg-logo="https://s3.aynaott.com/storage/f419fa058589eb7735cd48c942ef01a5" group-title="Kids, Channels",Disney Junior
-https://tvsen3.aynascope.net/aM7qKqq7/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a20-717e-9c8c-9e1deaefbd75" tvg-name="Disney XD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f02de913e3592f951e728234f2bef434_playmist_disney_xd_400x400.jpg" group-title="Channels, Kids",Disney XD [PAID]
 https://tvsen5.aynaott.com/disneyxd/index.m3u8
@@ -354,12 +342,6 @@ https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a57-7892-b06f-caf61a17d1cb" tvg-name="Goldmines Movies" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg" group-title="Movie, Hindi, Channels",Goldmines Movies [PAID]
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39e8-70c1-8c94-9012cb5fe91f" tvg-name="Golf Channel" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_bf450d05727fd678bee456e883af98e8_playmist_golf_channel_400x400.jpg" group-title="Sports, Channels",Golf Channel [PAID]
-https://tvsen3.aynascope.net/APKc7EfX/index.m3u8
-
-#EXTINF:-1 tvg-id="019efa45-d99b-7d02-88e4-a4ddde941b50" tvg-name="Green TV HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_e50aa586435e7c34aca4fedb8aa0d9da_playmist_green_tv.jpg" group-title="Bangla, Channels",Green TV HD [PAID]
-https://tvsen6.aynascope.net/cLuA3hJR/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bb7-78ad-b1ab-052ba0529f95" tvg-name="HBO" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg" group-title="Movie, Channels, English",HBO [PAID]
 https://tvsen7.aynaott.com/hbo/index.m3u8
@@ -460,9 +442,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="019efa45-eb40-78e2-b686-754a26ad8118" tvg-name="More Then Sports TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3ce4f626598fec3837ba3f590e34005d.jpg" group-title="Sports, Channels",More Then Sports TV [PAID]
 https://tvsen6.aynaott.com/mtstv/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3c1f-7b50-9552-ec0a24a0f10c" tvg-name="Movie Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_4b0e2707eaa2037e3c13948ddce9be7b_playmist_movie_bangla_400x400.jpg" group-title="Bangla, Channels, Movie",Movie Bangla [PAID]
-https://tvsen7.aynascope.net/moviebangla/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3a4b-7cc8-aa24-98f4797d21a8" tvg-name="Music India" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_293d590e382ae09a9d8028c4c56d4ee3_playmist_music_india_400x400.jpg" group-title="Music, Hindi, Channels",Music India [PAID]
 https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8
 
@@ -499,12 +478,6 @@ https://tvsen3.aynaott.com/vG7Wpj7e/index.m3u8
 #EXTINF:-1 tvg-id="019de785-39ab-7332-bcd6-ef5ce3093acb" tvg-name="News Time Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg" group-title="Channels, Indian Bangla",News Time Bangla [PAID]
 https://tvsen6.aynaott.com/xjkX3euD/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3a1a-759a-b769-a7e6d578e7ee" tvg-name="Nickjr" tvg-logo="https://s3.aynaott.com/storage/ffdae29da4d531aa3f564abcbb318952" group-title="Channels, Kids",Nickjr
-https://tvsen3.aynascope.net/LqCU7kXU/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3a18-7270-9a90-33559681623d" tvg-name="Nicktoons" tvg-logo="https://s3.aynaott.com/storage/fdc816297ed452a65b691bb2cc5434da" group-title="Kids, Channels",Nicktoons
-https://tvsen3.aynascope.net/rXbLN7zC/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3c29-7f47-bacb-ad12c787ba00" tvg-name="OAN " tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_e8d396ba6ceb67ea33eedd2060880807_playmist_oan_sports_logo400x400.jpg" group-title="Channels, Arabic, English",OAN  [PAID]
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 
@@ -513,9 +486,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a34-7633-bc80-6c35f6723bca" tvg-name="PBS Kids" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_ab1b8e6f265620cd2720adc23bd2ba0e_playmist_pbs_kids_400x400.jpg" group-title="Kids, Channels",PBS Kids [PAID]
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39bc-7bd5-b9e5-bab23ceba9ea" tvg-name="PTV Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="Sports, Cricket, Channels, Football",PTV Sports [PAID]
-https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3c0c-70fc-aaf6-d43bf24eb321" tvg-name="Peace TV Bangla HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg" group-title="Channels, Religious, Bangla",Peace TV Bangla HD [PAID]
 https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8
@@ -607,9 +577,6 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 #EXTINF:-1 tvg-id="019de785-3a07-7ed8-95b9-91d3fcaea7c0" tvg-name="Sports Fishing TV" tvg-logo="https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d2bd056d0869" group-title="Channels, Sports",Sports Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="019de785-39d8-7575-8a5c-5c25e6fea513" tvg-name="Sports Grid" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f34b70c0dee84c37b74d909b920ce78c_playmist_sports_grid_400x400.jpg" group-title="Sports, Channels",Sports Grid [PAID]
-https://tvsen6.aynascope.net/SportsGrid/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-394b-769f-a201-f04269d4b8fb" tvg-name="Star News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4c8e446a0a7c9f1c28fd6aef2c19132d_playmist_star_news400x400.jpg" group-title="Channels, News, Bangla",Star News [PAID]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 
@@ -628,20 +595,8 @@ https://tvsen7.aynaott.com/timetv/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3bd1-7502-8aaf-aca55d0c6489" tvg-name="TLC HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c9578433e8f6ab63736a08edef56644_playmist_tlc_hd_400x400.jpg" group-title="English, Channels",TLC HD [PAID]
 https://tvsen3.aynaott.com/EJagkNL2/index.m3u8
 
-#EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Sports, Channels",TNT Sport 1 [PAID]
-https://tvsen3.aynascope.net/4T5fe4Sc/index.m3u8
-
 #EXTINF:-1 tvg-id="019de785-3b9a-7ace-a6b9-3276da2bf5c3" tvg-name="TRT World" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bad71649a48765ea1bfa3b043822e061_playmist_trt_world_400x400.jpg" group-title="News, English, Channels",TRT World [PAID]
 https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39e0-76f0-9bff-68df0dc12665" tvg-name="TSN 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg" group-title="Channels, Sports",TSN 1 [PAID]
-https://tvsen7.aynascope.net/tsn1/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39e2-7b89-b765-55ec31696b75" tvg-name="TSN 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg" group-title="Sports, Channels",TSN 2 [PAID]
-https://tvsen7.aynascope.net/tsn2/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39e4-74c7-9cdb-1427d9235bb6" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg" group-title="Sports, Channels",TSN 3 [PAID]
-https://tvsen7.aynascope.net/tsn3/index.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-e648-7d62-b00f-0b4295974f1b" tvg-name="TV ONE" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_69cebbf196fdd46ee39d0e3af7780d89_playmist_tv_one400x400.jpg" group-title="English, Channels",TV ONE [PAID]
 https://tvsen6.aynaott.com/tvone/index.m3u8
@@ -684,9 +639,6 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="019efa45-e069-7f80-a70f-34d4f01b80ea" tvg-name="VTV USA" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg" group-title="English, News, Channels",VTV USA [PAID]
 https://tvsen7.aynaott.com/vtvusa/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-3bf8-774d-893b-51c6b4b22fb5" tvg-name="WEATHER CHANNEL" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8a12f27b8b702fb205273e384dbf83ab_playmist_weather_channel_400x400.jpg" group-title="Weather, Channels, English, News",WEATHER CHANNEL [PAID]
-https://tvsen3.aynascope.net/uqXdx9CE/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3c00-718e-9487-01b8e71feb2d" tvg-name="Weather SPY" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_12ff352e97642f2042f8e88a93eca33d_playmist_weather_spy400x400.jpg" group-title="English, Weather, Channels, News",Weather SPY [PAID]
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
