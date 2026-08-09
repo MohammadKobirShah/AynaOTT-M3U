@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated: 2026-08-09 06:39:46 UTC
+# Generated: 2026-08-09 12:31:14 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
-# Total Channels: 224
+# Total Channels: 225
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="English, Channels, News",   	 USA TV [PAID]
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
@@ -486,6 +486,9 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a34-7633-bc80-6c35f6723bca" tvg-name="PBS Kids" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_ab1b8e6f265620cd2720adc23bd2ba0e_playmist_pbs_kids_400x400.jpg" group-title="Kids, Channels",PBS Kids [PAID]
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="019de785-39bc-7bd5-b9e5-bab23ceba9ea" tvg-name="PTV Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="Sports, Cricket, Channels, Football",PTV Sports [PAID]
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3c0c-70fc-aaf6-d43bf24eb321" tvg-name="Peace TV Bangla HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg" group-title="Channels, Religious, Bangla",Peace TV Bangla HD [PAID]
 https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8
