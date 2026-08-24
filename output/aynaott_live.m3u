@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated: 2026-08-24 06:38:26 UTC
+# Generated: 2026-08-24 12:29:37 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
-# Total Channels: 225
+# Total Channels: 228
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="English, Channels, News",   	 USA TV [PAID]
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
@@ -600,6 +600,15 @@ https://tvsen3.aynaott.com/EJagkNL2/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b9a-7ace-a6b9-3276da2bf5c3" tvg-name="TRT World" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bad71649a48765ea1bfa3b043822e061_playmist_trt_world_400x400.jpg" group-title="News, English, Channels",TRT World [PAID]
 https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-39e0-76f0-9bff-68df0dc12665" tvg-name="TSN 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg" group-title="Channels, Sports",TSN 1 [PAID]
+https://tvsen7.aynascope.net/tsn1/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-39e2-7b89-b765-55ec31696b75" tvg-name="TSN 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg" group-title="Sports, Channels",TSN 2 [PAID]
+https://tvsen7.aynascope.net/tsn2/index.m3u8
+
+#EXTINF:-1 tvg-id="019de785-39e4-74c7-9cdb-1427d9235bb6" tvg-name="TSN 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg" group-title="Sports, Channels",TSN 3 [PAID]
+https://tvsen7.aynascope.net/tsn3/index.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-e648-7d62-b00f-0b4295974f1b" tvg-name="TV ONE" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_69cebbf196fdd46ee39d0e3af7780d89_playmist_tv_one400x400.jpg" group-title="English, Channels",TV ONE [PAID]
 https://tvsen6.aynaott.com/tvone/index.m3u8
