@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated: 2026-08-25 00:44:15 UTC
+# Generated: 2026-08-25 06:30:57 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
-# Total Channels: 228
+# Total Channels: 229
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="English, Channels, News",   	 USA TV [PAID]
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
@@ -183,6 +183,9 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3c11-7330-97b6-f67b430b5534" tvg-name="Channel Win" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8546ba7af9854adaeb7f7b4d9ee36019_playmist_channel_win_400x400.jpg" group-title="Channels, Religious",Channel Win [PAID]
 https://cdn-4.pishow.tv/live/229/master.m3u8
+
+#EXTINF:-1 tvg-id="019f2cd2-d14d-7057-9d30-55cfb742995a" tvg-name="Colors Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg" group-title="Channels, Indian Bangla",Colors Bangla [PAID]
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports, Channels",Cricket Gold [PAID]
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
