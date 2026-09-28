@@ -6,7 +6,7 @@
     "github": "https://github.com/MohammadKobirShah/aynaott-m3u",
     "version": "2.0.0",
     "license": "MIT",
-    "generated_at": "2026-09-27 20:38:12 UTC",
+    "generated_at": "2026-09-28 02:43:31 UTC",
     "source_url": "https://web.aynaott.com",
     "tenant_id": "019dd92f-107c-7056-9e79-e5233f6e51d9"
   },
@@ -38,18 +38,32 @@
   },
   "channels": [
     {
-      "id": "019efa45-e9a4-7c81-b8bd-efdeb31d84ec",
-      "slug": "tvc-arabic-kids",
-      "title": "TVC Arabic Kids",
+      "id": "019efa45-eb56-7241-b7d5-ebb6c8209ebb",
+      "slug": "marquee-sports-network",
+      "title": "Marquee Sports Network",
       "description": null,
-      "logo": "https://s3.aynaott.com/storage/31957d5960d3a36d8f9ca4d5a56eee96",
-      "stream_url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d59971a29af79ba0f40aff4c18d29aae.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Sports",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/marquee-sports-network"
+    },
+    {
+      "id": "019efa45-e9d9-7110-bbb8-6481d87d0bdb",
+      "slug": "kids-pang-tv",
+      "title": "Kids Pang TV",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/17ba4c8d03335c590b01e900ba1d3a9a.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Kids",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/tvc-arabic-kids"
+      "nav_path": "https://web.aynaott.com/live-tvs/kids-pang-tv"
     },
     {
       "id": "019efa45-eb97-7633-b4b2-682cef878a7e",
@@ -66,18 +80,46 @@
       "nav_path": "https://web.aynaott.com/live-tvs/talk-sport"
     },
     {
-      "id": "019f401f-3897-7291-8783-ed9b4301df6e",
-      "slug": "pitaara-tv",
-      "title": "Pitaara TV",
+      "id": "019f9d1e-903a-70f7-b217-aabdbdc97163",
+      "slug": "channel-52",
+      "title": "Channel 52",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/channel52/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "English"
+        "Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/pitaara-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/channel-52"
+    },
+    {
+      "id": "019f4169-db74-7378-a418-b462842662d0",
+      "slug": "and-pictures-hd",
+      "title": "And Pictures HD",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_b29360e9b3bf9d3ce34bd67d06d7c004_playmist_and_pictures_hd_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/andpictureshd/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Hindi"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/and-pictures-hd"
+    },
+    {
+      "id": "019efa45-e9a4-7c81-b8bd-efdeb31d84ec",
+      "slug": "tvc-arabic-kids",
+      "title": "TVC Arabic Kids",
+      "description": null,
+      "logo": "https://s3.aynaott.com/storage/31957d5960d3a36d8f9ca4d5a56eee96",
+      "stream_url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Kids",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/tvc-arabic-kids"
     },
     {
       "id": "019efa45-ebae-74d0-80f3-0aaa66928bae",
@@ -95,20 +137,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/dubai-sports-1"
     },
     {
-      "id": "019efa45-eb56-7241-b7d5-ebb6c8209ebb",
-      "slug": "marquee-sports-network",
-      "title": "Marquee Sports Network",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d59971a29af79ba0f40aff4c18d29aae.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Sports",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/marquee-sports-network"
-    },
-    {
       "id": "019efa45-eb40-78e2-b686-754a26ad8118",
       "slug": "more-then-sports-tv",
       "title": "More Then Sports TV",
@@ -121,91 +149,6 @@
         "Channels"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/more-then-sports-tv"
-    },
-    {
-      "id": "019f4169-db74-7378-a418-b462842662d0",
-      "slug": "and-pictures-hd",
-      "title": "And Pictures HD",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_b29360e9b3bf9d3ce34bd67d06d7c004_playmist_and_pictures_hd_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/andpictureshd/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/and-pictures-hd"
-    },
-    {
-      "id": "019f2cd2-d14d-7057-9d30-55cfb742995a",
-      "slug": "colors-bangla",
-      "title": "Colors Bangla",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Indian Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/colors-bangla"
-    },
-    {
-      "id": "019f9d1e-903a-70f7-b217-aabdbdc97163",
-      "slug": "channel-52",
-      "title": "Channel 52",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/channel52/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/channel-52"
-    },
-    {
-      "id": "019efa45-e9d9-7110-bbb8-6481d87d0bdb",
-      "slug": "kids-pang-tv",
-      "title": "Kids Pang TV",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/17ba4c8d03335c590b01e900ba1d3a9a.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Kids",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/kids-pang-tv"
-    },
-    {
-      "id": "019efa45-e919-75c1-8b85-8e841f19cc57",
-      "slug": "dream-turk",
-      "title": "Dream Turk",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_b19bcc95f135bcaba24b9128236cb5d9_playmist_dream_turk_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/DreamTurk/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dream-turk"
-    },
-    {
-      "id": "019f400c-f681-70a8-a70f-9858e64716be",
-      "slug": "amc",
-      "title": "Amc",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English",
-        "News"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/amc"
     },
     {
       "id": "019f2cfa-a46a-708d-9eac-b0b6b4a4733d",
@@ -236,6 +179,34 @@
       "nav_path": "https://web.aynaott.com/live-tvs/btv-national-hd"
     },
     {
+      "id": "019efa45-e919-75c1-8b85-8e841f19cc57",
+      "slug": "dream-turk",
+      "title": "Dream Turk",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_b19bcc95f135bcaba24b9128236cb5d9_playmist_dream_turk_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/DreamTurk/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/dream-turk"
+    },
+    {
+      "id": "019f401f-3897-7291-8783-ed9b4301df6e",
+      "slug": "pitaara-tv",
+      "title": "Pitaara TV",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_28f8e70cb65b77b00b911acfcbb43568_playmist_pitaara_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/pitaara-tv"
+    },
+    {
       "id": "019efa45-ef0a-7e72-86c1-af820f1f22e7",
       "slug": "atn-bangla",
       "title": "ATN Bangla",
@@ -250,62 +221,33 @@
       "nav_path": "https://web.aynaott.com/live-tvs/atn-bangla"
     },
     {
-      "id": "019efa45-e84a-7002-baf7-9a04e4d84f16",
-      "slug": "rupshi-bangla",
-      "title": "Rupshi Bangla",
+      "id": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+      "slug": "colors-bangla",
+      "title": "Colors Bangla",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_454ca4e52d414605814d0f4778fd8137_playmist_rupshi_bangla400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-04/images_5d61a8692dfaff7064d04ea23765cda0_playmist_colors_bangla_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "Indian Bangla",
-        "Bangla"
+        "Indian Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/rupshi-bangla"
+      "nav_path": "https://web.aynaott.com/live-tvs/colors-bangla"
     },
     {
-      "id": "019efa45-e6cf-77d1-ab66-0528b71c3826",
-      "slug": "ntv-europe",
-      "title": "NTV Europe",
+      "id": "019f400c-f681-70a8-a70f-9858e64716be",
+      "slug": "amc",
+      "title": "Amc",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
-      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/amc/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "Bangla"
+        "English",
+        "News"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/ntv-europe"
-    },
-    {
-      "id": "019efa45-e1c4-7180-ab7a-bbdda91a5f63",
-      "slug": "syfy-tv",
-      "title": "SYFY TV",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/5197987c54eb44bb45969739d6433ad2.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/syfy/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/syfy-tv"
-    },
-    {
-      "id": "019efa45-e8e5-7353-a606-b361cf5f42ce",
-      "slug": "cricket-gold",
-      "title": "Cricket Gold",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Cricket",
-        "Sports",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/cricket-gold"
+      "nav_path": "https://web.aynaott.com/live-tvs/amc"
     },
     {
       "id": "019efa45-e724-7ca0-90fd-8a837b01220c",
@@ -321,62 +263,6 @@
         "Channels"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/goldmines-bollywood"
-    },
-    {
-      "id": "019efa45-e89e-7321-9fc2-9cf4976f1179",
-      "slug": "dubai-sports-2",
-      "title": "Dubai Sports 2",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_cf039e1adb9e7c68fe5db6edf7a45dff_playmist_dubai_sports_2_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/DubaiSports2/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Sports"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dubai-sports-2"
-    },
-    {
-      "id": "019efa45-e30d-7833-8fae-6188b3e7f2d6",
-      "slug": "quran",
-      "title": "Quran",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/qurantv/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Religious"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/quran"
-    },
-    {
-      "id": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
-      "slug": "sky-cinema-animation",
-      "title": "SKY CINEMA ANIMATION",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Kids",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sky-cinema-animation"
-    },
-    {
-      "id": "019efa45-e2e4-7850-80df-3f494edb3f78",
-      "slug": "taqbeer",
-      "title": "TAQBEER",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bd701c683948a2e3ab1ca46d9e5e0b76.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/takbeer/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Religious",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/taqbeer"
     },
     {
       "id": "019efa45-e648-7d62-b00f-0b4295974f1b",
@@ -408,19 +294,89 @@
       "nav_path": "https://web.aynaott.com/live-tvs/dhoom-music-bangla"
     },
     {
-      "id": "019efa45-e069-7f80-a70f-34d4f01b80ea",
-      "slug": "vtv-usa",
-      "title": "VTV USA",
+      "id": "019efa45-e6cf-77d1-ab66-0528b71c3826",
+      "slug": "ntv-europe",
+      "title": "NTV Europe",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/vtvusa/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg",
+      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
       "access_level": "subscription",
       "categories": [
-        "English",
-        "News",
+        "Channels",
+        "Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/ntv-europe"
+    },
+    {
+      "id": "019efa45-e2e4-7850-80df-3f494edb3f78",
+      "slug": "taqbeer",
+      "title": "TAQBEER",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bd701c683948a2e3ab1ca46d9e5e0b76.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/takbeer/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Religious",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/vtv-usa"
+      "nav_path": "https://web.aynaott.com/live-tvs/taqbeer"
+    },
+    {
+      "id": "019efa45-e602-76d0-b2f0-155f9f2b893d",
+      "slug": "btv-ctg",
+      "title": "BTV CTG",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/btv-ctg"
+    },
+    {
+      "id": "019efa45-e30d-7833-8fae-6188b3e7f2d6",
+      "slug": "quran",
+      "title": "Quran",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/qurantv/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Religious"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/quran"
+    },
+    {
+      "id": "019efa45-e8e5-7353-a606-b361cf5f42ce",
+      "slug": "cricket-gold",
+      "title": "Cricket Gold",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Cricket",
+        "Sports",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/cricket-gold"
+    },
+    {
+      "id": "019efa45-e2fb-7a71-8c8e-9f2f62ce765b",
+      "slug": "sunnah",
+      "title": "SUNNAH",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_ba5c1233618589587536727ce37199a2_playmist_sunnah_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/sunnahtv/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Religious"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/sunnah"
     },
     {
       "id": "019efa45-e0fb-7703-b852-f19226e91f76",
@@ -438,74 +394,76 @@
       "nav_path": "https://web.aynaott.com/live-tvs/msnbc-news"
     },
     {
-      "id": "019efa45-e602-76d0-b2f0-155f9f2b893d",
-      "slug": "btv-ctg",
-      "title": "BTV CTG",
+      "id": "019efa45-e1c4-7180-ab7a-bbdda91a5f63",
+      "slug": "syfy-tv",
+      "title": "SYFY TV",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Bangla",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/btv-ctg"
-    },
-    {
-      "id": "019efa45-e2fb-7a71-8c8e-9f2f62ce765b",
-      "slug": "sunnah",
-      "title": "SUNNAH",
-      "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_ba5c1233618589587536727ce37199a2_playmist_sunnah_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/sunnahtv/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/5197987c54eb44bb45969739d6433ad2.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/syfy/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "Religious"
+        "English"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sunnah"
+      "nav_path": "https://web.aynaott.com/live-tvs/syfy-tv"
     },
     {
-      "id": "019efa45-dea3-7243-b8d8-f530f119cd09",
-      "slug": "bahrain-sports-2",
-      "title": "Bahrain Sports 2",
+      "id": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
+      "slug": "sky-cinema-animation",
+      "title": "SKY CINEMA ANIMATION",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/BahrainSports2/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_57e943dc61890a17ae5c26ac1d8a5f26_playmist_sky_cinema_animation_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Sports",
+        "Kids",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/bahrain-sports-2"
+      "nav_path": "https://web.aynaott.com/live-tvs/sky-cinema-animation"
     },
     {
-      "id": "019efa45-df9a-7792-8f7c-3ea7e9aae905",
-      "slug": "sony-aath",
-      "title": "Sony AATH",
+      "id": "019efa45-e069-7f80-a70f-34d4f01b80ea",
+      "slug": "vtv-usa",
+      "title": "VTV USA",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
-      "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/vtvusa/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "News",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/vtv-usa"
+    },
+    {
+      "id": "019efa45-e84a-7002-baf7-9a04e4d84f16",
+      "slug": "rupshi-bangla",
+      "title": "Rupshi Bangla",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_454ca4e52d414605814d0f4778fd8137_playmist_rupshi_bangla400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "Indian Bangla"
+        "Indian Bangla",
+        "Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sony-aath"
+      "nav_path": "https://web.aynaott.com/live-tvs/rupshi-bangla"
     },
     {
-      "id": "019efa45-de50-7c93-80a8-959a6dfa7f9c",
-      "slug": "sharjah-sports-tv",
-      "title": "Sharjah Sports TV",
+      "id": "019efa45-e89e-7321-9fc2-9cf4976f1179",
+      "slug": "dubai-sports-2",
+      "title": "Dubai Sports 2",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_3fb60482217bd1827b359461e167230d_playmist_sharjah_sports_tv400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/SharjahSportsTV/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_cf039e1adb9e7c68fe5db6edf7a45dff_playmist_dubai_sports_2_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/DubaiSports2/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "Sports"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sharjah-sports-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/dubai-sports-2"
     },
     {
       "id": "019efa45-de92-7c61-ad71-70555dc02789",
@@ -537,18 +495,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/bein-sports-1"
     },
     {
-      "id": "019efa45-db24-7232-933d-0105a23669d7",
-      "slug": "drama-24",
-      "title": "Drama 24",
+      "id": "019efa45-df9a-7792-8f7c-3ea7e9aae905",
+      "slug": "sony-aath",
+      "title": "Sony AATH",
       "description": null,
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/30554e50000b538aef52a9181052af56.jpg",
-      "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
+      "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Bangla",
-        "Channels"
+        "Channels",
+        "Indian Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/drama-24"
+      "nav_path": "https://web.aynaott.com/live-tvs/sony-aath"
     },
     {
       "id": "019efa45-d8f0-7732-8263-6030073a34fe",
@@ -563,6 +521,48 @@
         "Channels"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/fifa"
+    },
+    {
+      "id": "019efa45-dea3-7243-b8d8-f530f119cd09",
+      "slug": "bahrain-sports-2",
+      "title": "Bahrain Sports 2",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/BahrainSports2/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Sports",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/bahrain-sports-2"
+    },
+    {
+      "id": "019efa45-de50-7c93-80a8-959a6dfa7f9c",
+      "slug": "sharjah-sports-tv",
+      "title": "Sharjah Sports TV",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_3fb60482217bd1827b359461e167230d_playmist_sharjah_sports_tv400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/SharjahSportsTV/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Sports"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/sharjah-sports-tv"
+    },
+    {
+      "id": "019efa45-db24-7232-933d-0105a23669d7",
+      "slug": "drama-24",
+      "title": "Drama 24",
+      "description": null,
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/30554e50000b538aef52a9181052af56.jpg",
+      "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/drama-24"
     },
     {
       "id": "019de785-3c31-714f-8406-44f43739eec6",
@@ -593,20 +593,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/dubai-tv"
     },
     {
-      "id": "019de785-3c2d-78b8-a288-e6198a7d344c",
-      "slug": "tbs",
-      "title": "TBS",
-      "description": "TBS brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_64997e6c4161118a346f672c2c7aaefd_playmist_tbs_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/tbs/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/tbs"
-    },
-    {
       "id": "019de785-3c2b-750a-a77e-06dda24907f2",
       "slug": "abn",
       "title": "ABN ",
@@ -622,6 +608,20 @@
       "nav_path": "https://web.aynaott.com/live-tvs/abn"
     },
     {
+      "id": "019de785-3c2d-78b8-a288-e6198a7d344c",
+      "slug": "tbs",
+      "title": "TBS",
+      "description": "TBS brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_64997e6c4161118a346f672c2c7aaefd_playmist_tbs_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/tbs/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/tbs"
+    },
+    {
       "id": "019de785-3c27-75af-aecc-b972908c76b3",
       "slug": "adventure-earth",
       "title": "Adventure Earth",
@@ -634,6 +634,20 @@
         "English"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/adventure-earth"
+    },
+    {
+      "id": "019de785-3c25-7ee1-a86d-a533b909fc72",
+      "slug": "revolt",
+      "title": "Revolt",
+      "description": "Revolt brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_9979536baae6e22d6ab814dcbea12453_playmist_revolt_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/revolt/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/revolt"
     },
     {
       "id": "019de785-3c29-7f47-bacb-ad12c787ba00",
@@ -651,6 +665,48 @@
       "nav_path": "https://web.aynaott.com/live-tvs/oan"
     },
     {
+      "id": "019de785-3c19-7ca9-a496-8d5722d8462b",
+      "slug": "millennium-tv",
+      "title": "Millennium TV",
+      "description": "Millennium TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c80896efca107d25ab23c2582679aad_playmist_millennium_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/NXHj9tpa/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/millennium-tv"
+    },
+    {
+      "id": "019de785-3c1d-7749-b5b4-90c57752071b",
+      "slug": "ibtv-usa",
+      "title": "IBTV USA",
+      "description": "IBTV USA brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ea41ae173647bec89bc348a11f54d718_playmist_ibtv_usa_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/ibtv-usa"
+    },
+    {
+      "id": "019de785-3c11-7330-97b6-f67b430b5534",
+      "slug": "channel-win",
+      "title": "Channel Win",
+      "description": "\nChannel Win  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8546ba7af9854adaeb7f7b4d9ee36019_playmist_channel_win_400x400.jpg",
+      "stream_url": "https://cdn-4.pishow.tv/live/229/master.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Religious"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/channel-win"
+    },
+    {
       "id": "019de785-3c1b-75c8-a4a5-91373ec4f80a",
       "slug": "time-tv-usa",
       "title": "TIME TV USA",
@@ -664,6 +720,20 @@
         "News"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/time-tv-usa"
+    },
+    {
+      "id": "019de785-3c21-7676-9739-791cdaf8bcfc",
+      "slug": "cmac-tv",
+      "title": "CMAC TV",
+      "description": "CMAC TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_790f38211d0c5efaa8f792145e5dc383_playmist_cmac_tv400x400.jpg",
+      "stream_url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/cmac-tv"
     },
     {
       "id": "019de785-3c17-7ee9-9f97-7bc4e8bd84e7",
@@ -681,62 +751,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/madani-tv"
     },
     {
-      "id": "019de785-3c1d-7749-b5b4-90c57752071b",
-      "slug": "ibtv-usa",
-      "title": "IBTV USA",
-      "description": "IBTV USA brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ea41ae173647bec89bc348a11f54d718_playmist_ibtv_usa_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Bangla",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/ibtv-usa"
-    },
-    {
-      "id": "019de785-3c19-7ca9-a496-8d5722d8462b",
-      "slug": "millennium-tv",
-      "title": "Millennium TV",
-      "description": "Millennium TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c80896efca107d25ab23c2582679aad_playmist_millennium_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/NXHj9tpa/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Bangla",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/millennium-tv"
-    },
-    {
-      "id": "019de785-3c21-7676-9739-791cdaf8bcfc",
-      "slug": "cmac-tv",
-      "title": "CMAC TV",
-      "description": "CMAC TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_790f38211d0c5efaa8f792145e5dc383_playmist_cmac_tv400x400.jpg",
-      "stream_url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/cmac-tv"
-    },
-    {
-      "id": "019de785-3c13-703e-b125-6fe000541d15",
-      "slug": "deen-tv",
-      "title": "Deen TV",
-      "description": "Deen TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Religious",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/deen-tv"
-    },
-    {
       "id": "019de785-3c15-72c1-925e-6d94dd1e987b",
       "slug": "eman-channel",
       "title": "Eman Channel",
@@ -751,46 +765,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/eman-channel"
     },
     {
-      "id": "019de785-3c11-7330-97b6-f67b430b5534",
-      "slug": "channel-win",
-      "title": "Channel Win",
-      "description": "\nChannel Win  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8546ba7af9854adaeb7f7b4d9ee36019_playmist_channel_win_400x400.jpg",
-      "stream_url": "https://cdn-4.pishow.tv/live/229/master.m3u8",
+      "id": "019de785-3c13-703e-b125-6fe000541d15",
+      "slug": "deen-tv",
+      "title": "Deen TV",
+      "description": "Deen TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Channels",
-        "Religious"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/channel-win"
-    },
-    {
-      "id": "019de785-3c25-7ee1-a86d-a533b909fc72",
-      "slug": "revolt",
-      "title": "Revolt",
-      "description": "Revolt brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_9979536baae6e22d6ab814dcbea12453_playmist_revolt_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/revolt/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
+        "Religious",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/revolt"
-    },
-    {
-      "id": "019de785-3c06-787f-8eb0-f9ba2f0ebbc8",
-      "slug": "rtv-islam",
-      "title": "RTV Islam",
-      "description": "RTV Islam brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_04fcc2bbcd3f26e7ce92bafd7edb339c_playmist_rtv_islam.jpg",
-      "stream_url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Religious"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/rtv-islam"
+      "nav_path": "https://web.aynaott.com/live-tvs/deen-tv"
     },
     {
       "id": "019de785-3c08-74f1-942b-3613fd2d61cf",
@@ -808,21 +794,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/iqra-bangla"
     },
     {
-      "id": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
-      "slug": "peace-tv-bangla-hd",
-      "title": "Peace TV Bangla HD",
-      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Religious",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/peace-tv-bangla-hd"
-    },
-    {
       "id": "019de785-3c04-7852-b09a-dbcacbe4740e",
       "slug": "islam-tv",
       "title": "Islam TV",
@@ -837,19 +808,33 @@
       "nav_path": "https://web.aynaott.com/live-tvs/islam-tv"
     },
     {
-      "id": "019de785-3c02-77aa-aa8c-5457eec46ac3",
-      "slug": "discover-pikstan",
-      "title": "Discover Pikstan",
-      "description": "\nDiscover Pikstan brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_efeb6a966b36ef807b0aa9bfd5229360_playmist_discover_pikstan.jpg",
-      "stream_url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+      "id": "019de785-3c06-787f-8eb0-f9ba2f0ebbc8",
+      "slug": "rtv-islam",
+      "title": "RTV Islam",
+      "description": "RTV Islam brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_04fcc2bbcd3f26e7ce92bafd7edb339c_playmist_rtv_islam.jpg",
+      "stream_url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Weather",
         "Channels",
-        "Documentary"
+        "Religious"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/discover-pikstan"
+      "nav_path": "https://web.aynaott.com/live-tvs/rtv-islam"
+    },
+    {
+      "id": "019de785-3c0c-70fc-aaf6-d43bf24eb321",
+      "slug": "peace-tv-bangla-hd",
+      "title": "Peace TV Bangla HD",
+      "description": "Peace TV Bangla HD  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/RxGdpyu5/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Religious",
+        "Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/peace-tv-bangla-hd"
     },
     {
       "id": "019de785-3c00-718e-9487-01b8e71feb2d",
@@ -868,107 +853,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/weather-spy"
     },
     {
-      "id": "019de785-3bee-7f21-b4a5-cf84f86442b7",
-      "slug": "world-muzzik",
-      "title": "World Muzzik",
-      "description": "World Muzzik brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b9fc46d9adae5042068be4f4bc63cd04_playmist_world_muzzik400x400.jpg",
-      "stream_url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
+      "id": "019de785-3c02-77aa-aa8c-5457eec46ac3",
+      "slug": "discover-pikstan",
+      "title": "Discover Pikstan",
+      "description": "\nDiscover Pikstan brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_efeb6a966b36ef807b0aa9bfd5229360_playmist_discover_pikstan.jpg",
+      "stream_url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
       "access_level": "subscription",
       "categories": [
+        "Weather",
         "Channels",
-        "Music",
-        "English"
+        "Documentary"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/world-muzzik"
-    },
-    {
-      "id": "019de785-3bec-7c6d-aa44-9cee1291ec86",
-      "slug": "axs",
-      "title": "AXS",
-      "description": "AXS brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4baf85a9e95e132ef2a7fb0d127eb50a_playmist_axs_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/axs"
-    },
-    {
-      "id": "019de785-3bfa-71a7-92c2-a1cad28b99e5",
-      "slug": "accu-weather",
-      "title": "Accu Weather",
-      "description": "AccuWeather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a220fac6da08a832112ea4603c9a3c33_playmist_accu_weather_400x400.jpg",
-      "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "Channels",
-        "News",
-        "Weather"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/accu-weather"
-    },
-    {
-      "id": "019de785-3bf0-7393-9a87-366242140422",
-      "slug": "world-war-tv",
-      "title": "World War TV",
-      "description": "World War TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ac6813356117e23244894d632de90fe9_playmist_world_war_tv.jpg",
-      "stream_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Documentary",
-        "English",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/world-war-tv"
-    },
-    {
-      "id": "019de785-3bf6-7323-a2a9-3e23664ae2cd",
-      "slug": "aspark-tv",
-      "title": "ASPARK TV",
-      "description": "ASPARK TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5b56c4f47c9ac4ea4291c193fd607cfa_playmist_aspark_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/aspark-tv"
-    },
-    {
-      "id": "019de785-3be8-7ff3-b1fe-7d1221d39d34",
-      "slug": "power-turk",
-      "title": "Power Turk",
-      "description": "Power Turk brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_921be7b2d6ccc058938b643f66c6e3a8_playmist_power_turk_tv_400x400_update.jpg",
-      "stream_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/power-turk"
-    },
-    {
-      "id": "019de785-3bf4-757f-8e66-683777e40ff6",
-      "slug": "cgtn-documentary",
-      "title": "CGTN Documentary",
-      "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Documentary",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/cgtn-documentary"
+      "nav_path": "https://web.aynaott.com/live-tvs/discover-pikstan"
     },
     {
       "id": "019de785-3bfe-7a3a-920f-aa4ed99d20ac",
@@ -1003,33 +900,107 @@
       "nav_path": "https://web.aynaott.com/live-tvs/fox-weather"
     },
     {
-      "id": "019de785-3bd9-7f0c-9cba-351b78930e42",
-      "slug": "rds-social-tv",
-      "title": "RDS Social TV",
-      "description": "RDS Social TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://s3.aynaott.com/storage/a98854ba711798a82c172f935482f22a",
-      "stream_url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+      "id": "019de785-3bec-7c6d-aa44-9cee1291ec86",
+      "slug": "axs",
+      "title": "AXS",
+      "description": "AXS brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4baf85a9e95e132ef2a7fb0d127eb50a_playmist_axs_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "English",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/rds-social-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/axs"
     },
     {
-      "id": "019de785-3be0-7c5b-ad73-e7b18ab18245",
-      "slug": "travel-channel",
-      "title": "Travel Channel",
-      "description": "Travel Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8",
+      "id": "019de785-3bfa-71a7-92c2-a1cad28b99e5",
+      "slug": "accu-weather",
+      "title": "Accu Weather",
+      "description": "AccuWeather brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a220fac6da08a832112ea4603c9a3c33_playmist_accu_weather_400x400.jpg",
+      "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "Channels",
+        "News",
+        "Weather"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/accu-weather"
+    },
+    {
+      "id": "019de785-3bf6-7323-a2a9-3e23664ae2cd",
+      "slug": "aspark-tv",
+      "title": "ASPARK TV",
+      "description": "ASPARK TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5b56c4f47c9ac4ea4291c193fd607cfa_playmist_aspark_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/aspark-tv"
+    },
+    {
+      "id": "019de785-3bf0-7393-9a87-366242140422",
+      "slug": "world-war-tv",
+      "title": "World War TV",
+      "description": "World War TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ac6813356117e23244894d632de90fe9_playmist_world_war_tv.jpg",
+      "stream_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Documentary",
+        "English",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/world-war-tv"
+    },
+    {
+      "id": "019de785-3bf4-757f-8e66-683777e40ff6",
+      "slug": "cgtn-documentary",
+      "title": "CGTN Documentary",
+      "description": "\nCGTN Docu brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_99873e9c7dfcfc8c5f5e7ee1874b7f91_playmist_cgtn_documentary_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "English",
-        "Documentary"
+        "Documentary",
+        "English"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/travel-channel"
+      "nav_path": "https://web.aynaott.com/live-tvs/cgtn-documentary"
+    },
+    {
+      "id": "019de785-3bee-7f21-b4a5-cf84f86442b7",
+      "slug": "world-muzzik",
+      "title": "World Muzzik",
+      "description": "World Muzzik brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b9fc46d9adae5042068be4f4bc63cd04_playmist_world_muzzik400x400.jpg",
+      "stream_url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Music",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/world-muzzik"
+    },
+    {
+      "id": "019de785-3be8-7ff3-b1fe-7d1221d39d34",
+      "slug": "power-turk",
+      "title": "Power Turk",
+      "description": "Power Turk brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_921be7b2d6ccc058938b643f66c6e3a8_playmist_power_turk_tv_400x400_update.jpg",
+      "stream_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/power-turk"
     },
     {
       "id": "019de785-3be2-7139-8c0c-8009bd0b8c74",
@@ -1047,18 +1018,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/travel-xp"
     },
     {
-      "id": "019de785-3bd7-7f2e-bd91-7b0fca28970f",
-      "slug": "laff-tv",
-      "title": "LAFF TV",
-      "description": "LAFF TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4d77b602c1d8bbdb885ddc7e186d440e_playmist_laff_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
+      "id": "019de785-3bd5-71a5-8724-86b9aae512ae",
+      "slug": "food-network",
+      "title": "Food Network",
+      "description": "Food Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "English"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/laff-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/food-network"
     },
     {
       "id": "019de785-3bd3-70b3-9572-7521f692fc1d",
@@ -1075,47 +1046,75 @@
       "nav_path": "https://web.aynaott.com/live-tvs/comedy-central"
     },
     {
-      "id": "019de785-3bd5-71a5-8724-86b9aae512ae",
-      "slug": "food-network",
-      "title": "Food Network",
-      "description": "Food Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/food-network"
-    },
-    {
-      "id": "019de785-3bc5-70aa-b7d9-555b10cb474f",
-      "slug": "usa-tv",
-      "title": "   \t USA TV",
-      "description": "USA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
+      "id": "019de785-3bd9-7f0c-9cba-351b78930e42",
+      "slug": "rds-social-tv",
+      "title": "RDS Social TV",
+      "description": "RDS Social TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://s3.aynaott.com/storage/a98854ba711798a82c172f935482f22a",
+      "stream_url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "English",
-        "Channels",
-        "News"
+        "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/usa-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/rds-social-tv"
     },
     {
-      "id": "019de785-3bc1-763c-b24e-c328f7336861",
-      "slug": "history-tv",
-      "title": "HISTORY TV",
-      "description": "History brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+      "id": "019de785-3bd7-7f2e-bd91-7b0fca28970f",
+      "slug": "laff-tv",
+      "title": "LAFF TV",
+      "description": "LAFF TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4d77b602c1d8bbdb885ddc7e186d440e_playmist_laff_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "English"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/history-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/laff-tv"
+    },
+    {
+      "id": "019de785-3bd1-7502-8aaf-aca55d0c6489",
+      "slug": "tlc-hd",
+      "title": "TLC HD",
+      "description": "TLC HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c9578433e8f6ab63736a08edef56644_playmist_tlc_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/tlc-hd"
+    },
+    {
+      "id": "019de785-3be0-7c5b-ad73-e7b18ab18245",
+      "slug": "travel-channel",
+      "title": "Travel Channel",
+      "description": "Travel Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English",
+        "Documentary"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/travel-channel"
+    },
+    {
+      "id": "019de785-3bcd-7563-bcde-bdb80df1c0ee",
+      "slug": "bravo",
+      "title": "BRAVO",
+      "description": "BRAVO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_0bd125ebbc80065961e2e8d249fb5f9b_playmist_bravo400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/AXsdcQ8A/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/bravo"
     },
     {
       "id": "019de785-3bc9-734a-a037-6bfc2379c3fc",
@@ -1147,46 +1146,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/fx-tv"
     },
     {
-      "id": "019de785-3bd1-7502-8aaf-aca55d0c6489",
-      "slug": "tlc-hd",
-      "title": "TLC HD",
-      "description": "TLC HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7c9578433e8f6ab63736a08edef56644_playmist_tlc_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
+      "id": "019de785-3bc3-7f1b-9825-7f2e4bd0ad29",
+      "slug": "cbs-tv",
+      "title": "CBS TV",
+      "description": "CBS TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5cd9688088c2f3b2201b17378bc5081c_playmist_cbs_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/34fJSjZP/index.m3u8",
       "access_level": "subscription",
       "categories": [
+        "Channels",
         "English",
-        "Channels"
+        "News"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/tlc-hd"
-    },
-    {
-      "id": "019de785-3bcd-7563-bcde-bdb80df1c0ee",
-      "slug": "bravo",
-      "title": "BRAVO",
-      "description": "BRAVO brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_0bd125ebbc80065961e2e8d249fb5f9b_playmist_bravo400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/AXsdcQ8A/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/bravo"
-    },
-    {
-      "id": "019de785-3bcf-7b6b-8fc1-575809f11a35",
-      "slug": "cooking-tv",
-      "title": "COOKING TV",
-      "description": "COOKING TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/cooking-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/cbs-tv"
     },
     {
       "id": "019de785-3bcb-7259-a57e-958eec7798ae",
@@ -1203,19 +1175,61 @@
       "nav_path": "https://web.aynaott.com/live-tvs/ytv"
     },
     {
-      "id": "019de785-3bc3-7f1b-9825-7f2e4bd0ad29",
-      "slug": "cbs-tv",
-      "title": "CBS TV",
-      "description": "CBS TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5cd9688088c2f3b2201b17378bc5081c_playmist_cbs_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/34fJSjZP/index.m3u8",
+      "id": "019de785-3bc5-70aa-b7d9-555b10cb474f",
+      "slug": "usa-tv",
+      "title": "   \t USA TV",
+      "description": "USA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "Channels",
+        "News"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/usa-tv"
+    },
+    {
+      "id": "019de785-3bcf-7b6b-8fc1-575809f11a35",
+      "slug": "cooking-tv",
+      "title": "COOKING TV",
+      "description": "COOKING TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "English",
-        "News"
+        "English"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/cbs-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/cooking-tv"
+    },
+    {
+      "id": "019de785-3bc1-763c-b24e-c328f7336861",
+      "slug": "history-tv",
+      "title": "HISTORY TV",
+      "description": "History brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/history-tv"
+    },
+    {
+      "id": "019de785-3bbd-7236-a103-7ffd2858e328",
+      "slug": "hgtv",
+      "title": "HGTV",
+      "description": "HGTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/hgtv"
     },
     {
       "id": "019de785-3bbb-7b94-89d6-5aaa3a3706aa",
@@ -1232,18 +1246,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/epix-tv"
     },
     {
-      "id": "019de785-3bbd-7236-a103-7ffd2858e328",
-      "slug": "hgtv",
-      "title": "HGTV",
-      "description": "HGTV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8",
+      "id": "019de785-3bb9-7ee4-8c94-b23590436802",
+      "slug": "hbo-2",
+      "title": "HBO 2",
+      "description": "HBO 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Channels",
-        "English"
+        "English",
+        "Movie",
+        "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/hgtv"
+      "nav_path": "https://web.aynaott.com/live-tvs/hbo-2"
     },
     {
       "id": "019de785-3bb5-776c-a07f-e00276c4629e",
@@ -1275,21 +1290,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/hbo"
     },
     {
-      "id": "019de785-3bb9-7ee4-8c94-b23590436802",
-      "slug": "hbo-2",
-      "title": "HBO 2",
-      "description": "HBO 2 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "Movie",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/hbo-2"
-    },
-    {
       "id": "019de785-3bb3-70ca-b613-205c5c22da6b",
       "slug": "discovery-science",
       "title": "Discovery Science",
@@ -1302,49 +1302,6 @@
         "Channels"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/discovery-science"
-    },
-    {
-      "id": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
-      "slug": "nat-geo-tv",
-      "title": "Nat Geo TV",
-      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/nat-geo-tv"
-    },
-    {
-      "id": "019de785-3bae-7f5e-a48a-e01313b0913f",
-      "slug": "discovery-turbo",
-      "title": "Discovery Turbo",
-      "description": "Discovery Turbo  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/discovery-turbo"
-    },
-    {
-      "id": "019de785-3baa-7783-bf80-236068ce4990",
-      "slug": "wion",
-      "title": "Wion",
-      "description": "Wion brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_af4d270a6fc7246b2dc185399cce7dbd_playmist_wion_400x400.jpg",
-      "stream_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "News",
-        "Channels",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/wion"
     },
     {
       "id": "019de785-3bb1-775b-9c32-aad40ee46faf",
@@ -1361,33 +1318,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/discovery-hd"
     },
     {
-      "id": "019de785-3ba2-744b-8df9-2fbba4e15303",
-      "slug": "fox-business",
-      "title": "Fox business",
-      "description": "Fox business brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "News",
-        "English"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/fox-business"
-    },
-    {
-      "id": "019de785-3b9e-7f03-a443-6f49d828ee88",
-      "slug": "wild-tv",
-      "title": "Wild TV",
-      "description": "Wild TV  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg",
-      "stream_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+      "id": "019de785-3bae-7f5e-a48a-e01313b0913f",
+      "slug": "discovery-turbo",
+      "title": "Discovery Turbo",
+      "description": "Discovery Turbo  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "English",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/wild-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/discovery-turbo"
     },
     {
       "id": "019de785-3ba8-7387-8c4a-e90faff9bb7d",
@@ -1402,6 +1344,20 @@
         "English"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/amc-tv"
+    },
+    {
+      "id": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
+      "slug": "nat-geo-tv",
+      "title": "Nat Geo TV",
+      "description": "Nat Geo TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "English",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/nat-geo-tv"
     },
     {
       "id": "019de785-3ba0-791c-8c0e-49ddadbe2415",
@@ -1434,19 +1390,48 @@
       "nav_path": "https://web.aynaott.com/live-tvs/afroturk-tv"
     },
     {
-      "id": "019de785-3b9a-7ace-a6b9-3276da2bf5c3",
-      "slug": "trt-world",
-      "title": "TRT World",
-      "description": "TRT World brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bad71649a48765ea1bfa3b043822e061_playmist_trt_world_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8",
+      "id": "019de785-3ba2-744b-8df9-2fbba4e15303",
+      "slug": "fox-business",
+      "title": "Fox business",
+      "description": "Fox business brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "News",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/fox-business"
+    },
+    {
+      "id": "019de785-3baa-7783-bf80-236068ce4990",
+      "slug": "wion",
+      "title": "Wion",
+      "description": "Wion brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_af4d270a6fc7246b2dc185399cce7dbd_playmist_wion_400x400.jpg",
+      "stream_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
       "access_level": "subscription",
       "categories": [
         "News",
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/wion"
+    },
+    {
+      "id": "019de785-3b9e-7f03-a443-6f49d828ee88",
+      "slug": "wild-tv",
+      "title": "Wild TV",
+      "description": "Wild TV  brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg",
+      "stream_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+      "access_level": "subscription",
+      "categories": [
         "English",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/trt-world"
+      "nav_path": "https://web.aynaott.com/live-tvs/wild-tv"
     },
     {
       "id": "019de785-3b9c-7741-ad38-6473e3f02b5d",
@@ -1462,6 +1447,21 @@
         "News"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/mtv"
+    },
+    {
+      "id": "019de785-3b9a-7ace-a6b9-3276da2bf5c3",
+      "slug": "trt-world",
+      "title": "TRT World",
+      "description": "TRT World brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bad71649a48765ea1bfa3b043822e061_playmist_trt_world_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "News",
+        "English",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/trt-world"
     },
     {
       "id": "019de785-3b96-7e36-93b7-96e323b3f0a0",
@@ -1494,21 +1494,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/fox-news"
     },
     {
-      "id": "019de785-3b8e-7371-9211-d19b9ddac773",
-      "slug": "abc-7-bay",
-      "title": "ABC 7 Bay",
-      "description": "ABC 7 Bay brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_08717fb2d69f80063278b28057347175_playmist_abc_news_400x400.jpg",
-      "stream_url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "English",
-        "News",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/abc-7-bay"
-    },
-    {
       "id": "019de785-3b90-744e-bd01-4b335dc7cb0b",
       "slug": "sky-news",
       "title": "Sky News",
@@ -1524,19 +1509,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/sky-news"
     },
     {
-      "id": "019de785-3b8a-7550-9145-b7491e246d50",
-      "slug": "abc-news",
-      "title": "ABC News",
-      "description": "ABC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a806cf1e3ba0981e00a8f340fab8a6f8_playmist_abc_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8",
+      "id": "019de785-3b8e-7371-9211-d19b9ddac773",
+      "slug": "abc-7-bay",
+      "title": "ABC 7 Bay",
+      "description": "ABC 7 Bay brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_08717fb2d69f80063278b28057347175_playmist_abc_news_400x400.jpg",
+      "stream_url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Channels",
+        "English",
         "News",
-        "English"
+        "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/abc-news"
+      "nav_path": "https://web.aynaott.com/live-tvs/abc-7-bay"
     },
     {
       "id": "019de785-3b8c-7795-b739-15e0a02e5237",
@@ -1554,6 +1539,21 @@
       "nav_path": "https://web.aynaott.com/live-tvs/cnbc-tv"
     },
     {
+      "id": "019de785-3b8a-7550-9145-b7491e246d50",
+      "slug": "abc-news",
+      "title": "ABC News",
+      "description": "ABC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a806cf1e3ba0981e00a8f340fab8a6f8_playmist_abc_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "News",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/abc-news"
+    },
+    {
       "id": "019de785-3b82-7f2d-a547-3c57eaa3dc10",
       "slug": "aljazeera-news",
       "title": "Aljazeera News",
@@ -1567,6 +1567,36 @@
         "News"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/aljazeera-news"
+    },
+    {
+      "id": "019de785-3b84-75ce-b64d-bd376de18c49",
+      "slug": "cp-24",
+      "title": "CP 24",
+      "description": "CP 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "English",
+        "News"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/cp-24"
+    },
+    {
+      "id": "019de785-3b86-739c-ae1e-0e7c43b5b36d",
+      "slug": "dw-news",
+      "title": "DW News",
+      "description": "DW News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_e9cbcb0f33668b33e4b5dd06143aa1c6_playmist_dw400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "News",
+        "Channels",
+        "English"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/dw-news"
     },
     {
       "id": "019de785-3b88-7be1-b385-a9648ad6a2cd",
@@ -1599,19 +1629,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/bbc-news"
     },
     {
-      "id": "019de785-3b86-739c-ae1e-0e7c43b5b36d",
-      "slug": "dw-news",
-      "title": "DW News",
-      "description": "DW News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_e9cbcb0f33668b33e4b5dd06143aa1c6_playmist_dw400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8",
+      "id": "019de785-3b7b-7f49-8f57-6c8fdcb2ee40",
+      "slug": "manoranjan-tv",
+      "title": "Manoranjan TV",
+      "description": "Manoranjan TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d546efbebdcf2327bea4479cca130908_playmist_manoranjan_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "News",
-        "Channels",
-        "English"
+        "Hindi",
+        "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dw-news"
+      "nav_path": "https://web.aynaott.com/live-tvs/manoranjan-tv"
     },
     {
       "id": "019de785-3b80-71c1-84a7-8a74b1a63534",
@@ -1629,33 +1658,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/cnn"
     },
     {
-      "id": "019de785-3b84-75ce-b64d-bd376de18c49",
-      "slug": "cp-24",
-      "title": "CP 24",
-      "description": "CP 24 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "English",
-        "News"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/cp-24"
-    },
-    {
-      "id": "019de785-3b7b-7f49-8f57-6c8fdcb2ee40",
-      "slug": "manoranjan-tv",
-      "title": "Manoranjan TV",
-      "description": "Manoranjan TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d546efbebdcf2327bea4479cca130908_playmist_manoranjan_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "id": "019de785-3b79-7721-8eb4-041c36303ee0",
+      "slug": "manoranjan-movies",
+      "title": "Manoranjan Movies",
+      "description": "Manoranjan Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fa199bbc64f6fb27edca5b1205217dce_playmist_manoranjan_movies_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/vhu6qz5N/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Hindi",
+        "Movie",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/manoranjan-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/manoranjan-movies"
     },
     {
       "id": "019de785-3b77-7e63-b829-6e2f1fa37ae0",
@@ -1672,19 +1687,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/and-tv"
     },
     {
-      "id": "019de785-3b79-7721-8eb4-041c36303ee0",
-      "slug": "manoranjan-movies",
-      "title": "Manoranjan Movies",
-      "description": "Manoranjan Movies brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fa199bbc64f6fb27edca5b1205217dce_playmist_manoranjan_movies_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/vhu6qz5N/index.m3u8",
+      "id": "019de785-3b73-704a-84f5-817ac948026a",
+      "slug": "geo-ent",
+      "title": "Geo ENT",
+      "description": "Geo ENT brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",
+      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Hindi",
-        "Movie",
+        "Urdhu",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/manoranjan-movies"
+      "nav_path": "https://web.aynaott.com/live-tvs/geo-ent"
     },
     {
       "id": "019de785-3b6b-7874-988b-5d148182b02d",
@@ -1702,6 +1716,20 @@
       "nav_path": "https://web.aynaott.com/live-tvs/hindi-movie-classic-24"
     },
     {
+      "id": "019de785-3b69-786a-a331-847da93e5d3d",
+      "slug": "dhinchaak",
+      "title": "Dhinchaak",
+      "description": "Dhinchaak brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_a7fe328956ad0b1e64e29ca727c1159c_playmist_dhinchaak_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Hindi"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/dhinchaak"
+    },
+    {
       "id": "019de785-3b6f-701b-a832-1c50bb18b234",
       "slug": "b4u-hitz",
       "title": "B4U Hitz",
@@ -1715,34 +1743,6 @@
         "Music"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/b4u-hitz"
-    },
-    {
-      "id": "019de785-3b73-704a-84f5-817ac948026a",
-      "slug": "geo-ent",
-      "title": "Geo ENT",
-      "description": "Geo ENT brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",
-      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Urdhu",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/geo-ent"
-    },
-    {
-      "id": "019de785-3b69-786a-a331-847da93e5d3d",
-      "slug": "dhinchaak",
-      "title": "Dhinchaak",
-      "description": "Dhinchaak brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_a7fe328956ad0b1e64e29ca727c1159c_playmist_dhinchaak_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dhinchaak"
     },
     {
       "id": "019de785-3b65-7872-a707-c2324a037cc9",
@@ -1773,60 +1773,33 @@
       "nav_path": "https://web.aynaott.com/live-tvs/taaza-tv"
     },
     {
-      "id": "019de785-3b53-76ae-be98-097222da30c8",
-      "slug": "theq",
-      "title": "TheQ",
-      "description": "The Q brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2f34bf2892467c32fab2ed18bc782c53_playmist_theq_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "id": "019de785-3b5b-7c37-a953-8eed8e882836",
+      "slug": "sadhna-prime-news",
+      "title": "Sadhna Prime News",
+      "description": "Sadhna Prime News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8",
       "access_level": "subscription",
       "categories": [
+        "Channels",
         "Hindi",
-        "Channels"
+        "News"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/theq"
+      "nav_path": "https://web.aynaott.com/live-tvs/sadhna-prime-news"
     },
     {
-      "id": "019de785-3b63-70b4-a301-f42575f9575e",
-      "slug": "dabangg",
-      "title": "Dabangg",
-      "description": "Dabangg brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f53e288446373a26b61189c23616288e_playmist_dabangg_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/cXpKEQ8U/index.m3u8",
+      "id": "019de785-3b5f-7a60-9c5c-1b8326d70a92",
+      "slug": "pictures",
+      "title": "& Pictures",
+      "description": "& Pictures brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_523e2066fb11ded3d8340292d0082138_playmist_and_pictures_hd_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "Hindi"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dabangg"
-    },
-    {
-      "id": "019de785-3b55-7fe9-bcdc-1126ee55c903",
-      "slug": "hi-dost",
-      "title": "Hi Dost",
-      "description": "Hi Dost brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_b90345375a329b519144db840900fbae_playmist_hidost_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/u2VhUFwF/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/hi-dost"
-    },
-    {
-      "id": "019de785-3b61-739b-86ee-8c08d972388a",
-      "slug": "b4u-kadak",
-      "title": "B4U Kadak",
-      "description": "B4U Kadak brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4398175b0b608f28ed92652c90450a2f_playmist_b4u_music_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/b4u-kadak"
+      "nav_path": "https://web.aynaott.com/live-tvs/pictures"
     },
     {
       "id": "019de785-3b59-7a32-a356-afc80c069215",
@@ -1844,33 +1817,60 @@
       "nav_path": "https://web.aynaott.com/live-tvs/news-1-india"
     },
     {
-      "id": "019de785-3b5f-7a60-9c5c-1b8326d70a92",
-      "slug": "pictures",
-      "title": "& Pictures",
-      "description": "& Pictures brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_523e2066fb11ded3d8340292d0082138_playmist_and_pictures_hd_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
+      "id": "019de785-3b63-70b4-a301-f42575f9575e",
+      "slug": "dabangg",
+      "title": "Dabangg",
+      "description": "Dabangg brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f53e288446373a26b61189c23616288e_playmist_dabangg_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/cXpKEQ8U/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "Hindi"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/pictures"
+      "nav_path": "https://web.aynaott.com/live-tvs/dabangg"
     },
     {
-      "id": "019de785-3b5b-7c37-a953-8eed8e882836",
-      "slug": "sadhna-prime-news",
-      "title": "Sadhna Prime News",
-      "description": "Sadhna Prime News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8",
+      "id": "019de785-3b61-739b-86ee-8c08d972388a",
+      "slug": "b4u-kadak",
+      "title": "B4U Kadak",
+      "description": "B4U Kadak brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4398175b0b608f28ed92652c90450a2f_playmist_b4u_music_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "Hindi",
-        "News"
+        "Hindi"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sadhna-prime-news"
+      "nav_path": "https://web.aynaott.com/live-tvs/b4u-kadak"
+    },
+    {
+      "id": "019de785-3b55-7fe9-bcdc-1126ee55c903",
+      "slug": "hi-dost",
+      "title": "Hi Dost",
+      "description": "Hi Dost brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_b90345375a329b519144db840900fbae_playmist_hidost_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/u2VhUFwF/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Hindi"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/hi-dost"
+    },
+    {
+      "id": "019de785-3b53-76ae-be98-097222da30c8",
+      "slug": "theq",
+      "title": "TheQ",
+      "description": "The Q brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2f34bf2892467c32fab2ed18bc782c53_playmist_theq_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Hindi",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/theq"
     },
     {
       "id": "019de785-3b50-7b52-bdb5-7b514bc2f01c",
@@ -1901,6 +1901,20 @@
       "nav_path": "https://web.aynaott.com/live-tvs/shemaroo-tv"
     },
     {
+      "id": "019de785-3a5f-738e-b2e2-f6110c5e8c09",
+      "slug": "dangal",
+      "title": "Dangal",
+      "description": "Dangal brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_98667878f9c1b3ec731feece5946b50b_playmist_dangal_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Hindi"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/dangal"
+    },
+    {
       "id": "019de785-3a5d-7bec-bd46-d7763021e0ab",
       "slug": "dangal-2",
       "title": "Dangal 2",
@@ -1915,18 +1929,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/dangal-2"
     },
     {
-      "id": "019de785-3a5f-738e-b2e2-f6110c5e8c09",
-      "slug": "dangal",
-      "title": "Dangal",
-      "description": "Dangal brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_98667878f9c1b3ec731feece5946b50b_playmist_dangal_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "id": "019de785-3a55-70ed-9fa1-e0459e2294dc",
+      "slug": "goldmines",
+      "title": "Goldmines",
+      "description": "Goldmines brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f102735d68ece1e00316c6187b9ad340_playmist_goldmines_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
+        "Movie",
         "Hindi"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dangal"
+      "nav_path": "https://web.aynaott.com/live-tvs/goldmines"
     },
     {
       "id": "019de785-3a5b-7aee-b7ea-2718e8251844",
@@ -1959,36 +1974,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/goldmines-movies"
     },
     {
-      "id": "019de785-3a53-740f-b92b-aeebb36ebcff",
-      "slug": "b4u-music",
-      "title": "B4u Music",
-      "description": "B4u Music brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_609415ab80bb07335a70905f89257bb0_playmist_b4u_music_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Hindi",
-        "Music",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/b4u-music"
-    },
-    {
-      "id": "019de785-3a55-70ed-9fa1-e0459e2294dc",
-      "slug": "goldmines",
-      "title": "Goldmines",
-      "description": "Goldmines brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f102735d68ece1e00316c6187b9ad340_playmist_goldmines_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Movie",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/goldmines"
-    },
-    {
       "id": "019de785-3a4f-778c-990c-ff69731d6ec0",
       "slug": "9xm",
       "title": "9XM",
@@ -2002,51 +1987,6 @@
         "Hindi"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/9xm"
-    },
-    {
-      "id": "019de785-3a49-76c5-baa6-12c71aa6e36e",
-      "slug": "9x-jalwa",
-      "title": "9x Jalwa",
-      "description": "9x Jalwa brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Music",
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/9x-jalwa"
-    },
-    {
-      "id": "019de785-3a45-758e-b95b-c37d65b23bea",
-      "slug": "anb-news",
-      "title": "ANB News",
-      "description": "ANB News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_86e9d3e52b45d2bb9c321b8168aa01e9_playmist_anb_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/H5aeGVSjindex.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Hindi",
-        "News"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/anb-news"
-    },
-    {
-      "id": "019de785-3a51-7442-8cdb-ea159a76af05",
-      "slug": "9x-jhakaas",
-      "title": "9x Jhakaas",
-      "description": "9x Jhakaas brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_85748078beef72409b728a4d01e37696_playmist_9x_jhakaas_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Music",
-        "Hindi",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/9x-jhakaas"
     },
     {
       "id": "019de785-3a4d-7989-9b30-84e8836d4c7e",
@@ -2064,6 +2004,21 @@
       "nav_path": "https://web.aynaott.com/live-tvs/mastiii-music"
     },
     {
+      "id": "019de785-3a51-7442-8cdb-ea159a76af05",
+      "slug": "9x-jhakaas",
+      "title": "9x Jhakaas",
+      "description": "9x Jhakaas brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_85748078beef72409b728a4d01e37696_playmist_9x_jhakaas_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Music",
+        "Hindi",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/9x-jhakaas"
+    },
+    {
       "id": "019de785-3a47-7ef0-a5aa-b31bc6b7d02e",
       "slug": "9x-tashan",
       "title": "9X Tashan",
@@ -2079,6 +2034,21 @@
       "nav_path": "https://web.aynaott.com/live-tvs/9x-tashan"
     },
     {
+      "id": "019de785-3a49-76c5-baa6-12c71aa6e36e",
+      "slug": "9x-jalwa",
+      "title": "9x Jalwa",
+      "description": "9x Jalwa brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Music",
+        "Channels",
+        "Hindi"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/9x-jalwa"
+    },
+    {
       "id": "019de785-3a4b-7cc8-aa24-98f4797d21a8",
       "slug": "music-india",
       "title": "Music India",
@@ -2092,6 +2062,36 @@
         "Channels"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/music-india"
+    },
+    {
+      "id": "019de785-3a53-740f-b92b-aeebb36ebcff",
+      "slug": "b4u-music",
+      "title": "B4u Music",
+      "description": "B4u Music brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_609415ab80bb07335a70905f89257bb0_playmist_b4u_music_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Hindi",
+        "Music",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/b4u-music"
+    },
+    {
+      "id": "019de785-3a45-758e-b95b-c37d65b23bea",
+      "slug": "anb-news",
+      "title": "ANB News",
+      "description": "ANB News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_86e9d3e52b45d2bb9c321b8168aa01e9_playmist_anb_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/H5aeGVSjindex.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Hindi",
+        "News"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/anb-news"
     },
     {
       "id": "019de785-3a43-72bb-8d94-e1309e246905",
@@ -2139,35 +2139,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/hindi-khabar"
     },
     {
-      "id": "019de785-3a3c-71e5-8c69-161f0f895a02",
-      "slug": "republic-tv-bharat",
-      "title": "Republic TV Bharat",
-      "description": "Republic TV Bharat brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "News",
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/republic-tv-bharat"
-    },
-    {
-      "id": "019de785-3a38-7452-8cf2-98336ef120ff",
-      "slug": "network-10",
-      "title": "Network 10",
-      "description": "Network 10 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_35e8912e73d3759eb0f9e21a815d1a80_playmist_network_10_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Indian Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/network-10"
-    },
-    {
       "id": "019de785-3a34-7633-bc80-6c35f6723bca",
       "slug": "pbs-kids",
       "title": "PBS Kids",
@@ -2197,6 +2168,60 @@
       "nav_path": "https://web.aynaott.com/live-tvs/tv9-bharatvarsh"
     },
     {
+      "id": "019de785-3a3c-71e5-8c69-161f0f895a02",
+      "slug": "republic-tv-bharat",
+      "title": "Republic TV Bharat",
+      "description": "Republic TV Bharat brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "News",
+        "Channels",
+        "Hindi"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/republic-tv-bharat"
+    },
+    {
+      "id": "019de785-3a38-7452-8cf2-98336ef120ff",
+      "slug": "network-10",
+      "title": "Network 10",
+      "description": "Network 10 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_35e8912e73d3759eb0f9e21a815d1a80_playmist_network_10_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Indian Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/network-10"
+    },
+    {
+      "id": "019de785-3a30-7db9-88de-2fd29c69b7e8",
+      "slug": "sky",
+      "title": "Sky Cinema Animation",
+      "description": "SKY CINEMA ANIMATION brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_dd0ae7d1d48dff6162092845645fc1c7_playmist_sky_cinema_animation_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
+      "access_level": "subscription",
+      "categories": [],
+      "nav_path": "https://web.aynaott.com/live-tvs/sky"
+    },
+    {
+      "id": "019de785-3a2c-791d-bed4-1a70e99b3858",
+      "slug": "moonbug-kids",
+      "title": "Moonbug Kids",
+      "description": "Moonbug Kids brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4be00646d9e8f7a973d43b52166407ff_playmist_moonbug_kids400x400.jpg",
+      "stream_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Kids",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/moonbug-kids"
+    },
+    {
       "id": "019de785-3a32-7736-87ef-a8588bdc159f",
       "slug": "kids-tv",
       "title": "Kids TV",
@@ -2211,31 +2236,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/kids-tv"
     },
     {
-      "id": "019de785-3a30-7db9-88de-2fd29c69b7e8",
-      "slug": "sky",
-      "title": "Sky Cinema Animation",
-      "description": "SKY CINEMA ANIMATION brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_dd0ae7d1d48dff6162092845645fc1c7_playmist_sky_cinema_animation_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
-      "access_level": "subscription",
-      "categories": [],
-      "nav_path": "https://web.aynaott.com/live-tvs/sky"
-    },
-    {
-      "id": "019de785-3a22-7b68-b8af-67fe79a563f0",
-      "slug": "family-jr",
-      "title": "Family JR",
-      "description": "Family JR brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_5a86cf863e55540bcff12372d6c5909b_playmist_family_jr_400x400.jpg",
-      "stream_url": "https://tvsen3.aynaott.com/25FZdZrX/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Kids",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/family-jr"
-    },
-    {
       "id": "019de785-3a28-7902-88ee-0f42afbc7d50",
       "slug": "tvcarib-kids-teens",
       "title": "TVCARiB Kids & Teens",
@@ -2248,6 +2248,20 @@
         "Kids"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/tvcarib-kids-teens"
+    },
+    {
+      "id": "019de785-3a2e-7cc6-ae53-9a7700f7b056",
+      "slug": "3abn-kids",
+      "title": "3ABN Kids",
+      "description": "3ABN Kids brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg",
+      "stream_url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Kids"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/3abn-kids"
     },
     {
       "id": "019de785-3a26-7aa1-b461-6ac35c734b7e",
@@ -2278,32 +2292,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/dios-te-ve-kids"
     },
     {
-      "id": "019de785-3a2c-791d-bed4-1a70e99b3858",
-      "slug": "moonbug-kids",
-      "title": "Moonbug Kids",
-      "description": "Moonbug Kids brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4be00646d9e8f7a973d43b52166407ff_playmist_moonbug_kids400x400.jpg",
-      "stream_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "id": "019de785-3a22-7b68-b8af-67fe79a563f0",
+      "slug": "family-jr",
+      "title": "Family JR",
+      "description": "Family JR brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_5a86cf863e55540bcff12372d6c5909b_playmist_family_jr_400x400.jpg",
+      "stream_url": "https://tvsen3.aynaott.com/25FZdZrX/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Kids",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/moonbug-kids"
-    },
-    {
-      "id": "019de785-3a2e-7cc6-ae53-9a7700f7b056",
-      "slug": "3abn-kids",
-      "title": "3ABN Kids",
-      "description": "3ABN Kids brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg",
-      "stream_url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Kids"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/3abn-kids"
+      "nav_path": "https://web.aynaott.com/live-tvs/family-jr"
     },
     {
       "id": "019de785-3a20-717e-9c8c-9e1deaefbd75",
@@ -2334,33 +2334,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/discovery-family"
     },
     {
-      "id": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
-      "slug": "tnt-sport-1",
-      "title": "TNT Sport 1",
-      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
+      "id": "019de785-3a1e-7c94-91e5-6b6755d5ab6b",
+      "slug": "disney-channel",
+      "title": "Disney Channel",
+      "description": "\nDisney Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_92666995d4995d2bb46b92598d2b3e48_playmist_disney_channel_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/disney/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Sports",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/tnt-sport-1"
-    },
-    {
-      "id": "019de785-3a0b-7492-944c-93b197e0fc39",
-      "slug": "bleav-football",
-      "title": "Bleav Football",
-      "description": "Bleav Football brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_c1c4607b44cda506121e777ebeafffce_playmist_bleav_football_400x400.jpg",
-      "stream_url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Football",
         "Channels",
-        "Sports"
+        "Kids"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/bleav-football"
+      "nav_path": "https://web.aynaott.com/live-tvs/disney-channel"
     },
     {
       "id": "019de785-3a09-7284-a479-79a453e28305",
@@ -2378,6 +2363,35 @@
       "nav_path": "https://web.aynaott.com/live-tvs/espn"
     },
     {
+      "id": "019de785-3a0b-7492-944c-93b197e0fc39",
+      "slug": "bleav-football",
+      "title": "Bleav Football",
+      "description": "Bleav Football brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_c1c4607b44cda506121e777ebeafffce_playmist_bleav_football_400x400.jpg",
+      "stream_url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Football",
+        "Channels",
+        "Sports"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/bleav-football"
+    },
+    {
+      "id": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
+      "slug": "tnt-sport-1",
+      "title": "TNT Sport 1",
+      "description": "TNT Sport 1 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Sports",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/tnt-sport-1"
+    },
+    {
       "id": "019de785-3a07-7ed8-95b9-91d3fcaea7c0",
       "slug": "sports-fishing-tv",
       "title": "Sports Fishing TV",
@@ -2392,45 +2406,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/sports-fishing-tv"
     },
     {
-      "id": "019de785-39ff-7db1-94c6-e17acf6a6da4",
-      "slug": "oman-sports-tv-hd",
-      "title": "Oman Sports TV HD",
-      "description": "Oman Sports TV HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg",
-      "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-      "access_level": "free",
-      "categories": [],
-      "nav_path": "https://web.aynaott.com/live-tvs/oman-sports-tv-hd"
-    },
-    {
-      "id": "019de785-39fd-7973-b24f-0a07344fa15f",
-      "slug": "bahrain-sports-1",
-      "title": "Bahrain Sports 1",
-      "description": "\nBahrain Sports 1 HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e",
-      "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-      "access_level": "free",
-      "categories": [
-        "Channels",
-        "Sports"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/bahrain-sports-1"
-    },
-    {
-      "id": "019de785-3a1e-7c94-91e5-6b6755d5ab6b",
-      "slug": "disney-channel",
-      "title": "Disney Channel",
-      "description": "\nDisney Channel brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_92666995d4995d2bb46b92598d2b3e48_playmist_disney_channel_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/disney/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Kids"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/disney-channel"
-    },
-    {
       "id": "019de785-39f1-7e14-93de-7debf3a4fc03",
       "slug": "ktv-sport-plus",
       "title": "KTV Sport Plus",
@@ -2443,6 +2418,21 @@
         "Sports"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/ktv-sport-plus"
+    },
+    {
+      "id": "019de785-39ef-748a-9af9-aa3d3f488760",
+      "slug": "nfl-network",
+      "title": "NFL Network",
+      "description": "\nNFL Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Sports",
+        "News"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/nfl-network"
     },
     {
       "id": "019de785-39f3-7ee4-82c5-582a3f749674",
@@ -2475,33 +2465,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/tsn-2"
     },
     {
-      "id": "019de785-39ef-748a-9af9-aa3d3f488760",
-      "slug": "nfl-network",
-      "title": "NFL Network",
-      "description": "\nNFL Network brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-      "access_level": "subscription",
+      "id": "019de785-39fd-7973-b24f-0a07344fa15f",
+      "slug": "bahrain-sports-1",
+      "title": "Bahrain Sports 1",
+      "description": "\nBahrain Sports 1 HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e",
+      "stream_url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+      "access_level": "free",
       "categories": [
         "Channels",
-        "Sports",
-        "News"
+        "Sports"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/nfl-network"
-    },
-    {
-      "id": "019de785-39e4-74c7-9cdb-1427d9235bb6",
-      "slug": "tsn-3",
-      "title": "TSN 3",
-      "description": "TSN 3 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
-      "stream_url": "https://tvsen7.aynascope.net/tsn3/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Sports",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/tsn-3"
+      "nav_path": "https://web.aynaott.com/live-tvs/bahrain-sports-1"
     },
     {
       "id": "019de785-39e6-7f60-8105-3113bd407d09",
@@ -2516,6 +2491,31 @@
         "Sports"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/xtrem-sports"
+    },
+    {
+      "id": "019de785-39ff-7db1-94c6-e17acf6a6da4",
+      "slug": "oman-sports-tv-hd",
+      "title": "Oman Sports TV HD",
+      "description": "Oman Sports TV HD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg",
+      "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "access_level": "free",
+      "categories": [],
+      "nav_path": "https://web.aynaott.com/live-tvs/oman-sports-tv-hd"
+    },
+    {
+      "id": "019de785-39e4-74c7-9cdb-1427d9235bb6",
+      "slug": "tsn-3",
+      "title": "TSN 3",
+      "description": "TSN 3 brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",
+      "stream_url": "https://tvsen7.aynascope.net/tsn3/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Sports",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/tsn-3"
     },
     {
       "id": "019de785-39e0-76f0-9bff-68df0dc12665",
@@ -2561,20 +2561,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/bein-sports"
     },
     {
-      "id": "019de785-39d0-72a7-a714-e1e8998a87d2",
-      "slug": "sports-first-tv",
-      "title": "Sports First TV",
-      "description": "Sports First TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1e8f6268734530db4020f0af078ed8cb_playmist_sports_first400x400.jpg",
-      "stream_url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Sports"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sports-first-tv"
-    },
-    {
       "id": "019de785-39ce-70e7-948d-101e8a97fbd5",
       "slug": "fox-sports-2",
       "title": "Fox Sports 2",
@@ -2589,6 +2575,34 @@
       "nav_path": "https://web.aynaott.com/live-tvs/fox-sports-2"
     },
     {
+      "id": "019de785-39d0-72a7-a714-e1e8998a87d2",
+      "slug": "sports-first-tv",
+      "title": "Sports First TV",
+      "description": "Sports First TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1e8f6268734530db4020f0af078ed8cb_playmist_sports_first400x400.jpg",
+      "stream_url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Sports"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/sports-first-tv"
+    },
+    {
+      "id": "019de785-39b1-7763-ad62-b9087039241f",
+      "slug": "enter-10-bangla",
+      "title": "Enter 10 Bangla",
+      "description": "Enter 10 Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg",
+      "stream_url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Indian Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/enter-10-bangla"
+    },
+    {
       "id": "019de785-39cc-73df-9b76-41868981948e",
       "slug": "fox-sports-1",
       "title": "Fox Sports 1",
@@ -2601,6 +2615,35 @@
         "Sports"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/fox-sports-1"
+    },
+    {
+      "id": "019de785-39b9-7313-8fe1-ced68786a50b",
+      "slug": "willow-tv",
+      "title": "Willow TV",
+      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Cricket",
+        "Sports",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/willow-tv"
+    },
+    {
+      "id": "019de785-39af-74c7-ad3c-bb81cae61141",
+      "slug": "dd-bangla",
+      "title": "DD Bangla",
+      "description": "DD Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg",
+      "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Indian Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/dd-bangla"
     },
     {
       "id": "019de785-39bc-7bd5-b9e5-bab23ceba9ea",
@@ -2619,33 +2662,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/ptv-sports"
     },
     {
-      "id": "019de785-39b9-7313-8fe1-ced68786a50b",
-      "slug": "willow-tv",
-      "title": "Willow TV",
-      "description": "Willow TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Cricket",
-        "Sports",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/willow-tv"
-    },
-    {
-      "id": "019de785-39b1-7763-ad62-b9087039241f",
-      "slug": "enter-10-bangla",
-      "title": "Enter 10 Bangla",
-      "description": "Enter 10 Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg",
-      "stream_url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+      "id": "019de785-39ab-7332-bcd6-ef5ce3093acb",
+      "slug": "news-time-bangla",
+      "title": "News Time Bangla",
+      "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "Indian Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/enter-10-bangla"
+      "nav_path": "https://web.aynaott.com/live-tvs/news-time-bangla"
     },
     {
       "id": "019de785-39ad-7bd5-95f1-d0704eb7f985",
@@ -2662,32 +2690,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/rongeen-tv"
     },
     {
-      "id": "019de785-39af-74c7-ad3c-bb81cae61141",
-      "slug": "dd-bangla",
-      "title": "DD Bangla",
-      "description": "DD Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg",
-      "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Indian Bangla",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dd-bangla"
-    },
-    {
-      "id": "019de785-39ab-7332-bcd6-ef5ce3093acb",
-      "slug": "news-time-bangla",
-      "title": "News Time Bangla",
-      "description": "News Time Bangla brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/xjkX3euD/index.m3u8",
+      "id": "019de785-39a9-777d-a085-fd61ebb8ce7d",
+      "slug": "rplus-gold",
+      "title": "Rplus Gold",
+      "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
-        "Indian Bangla"
+        "Hindi"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/news-time-bangla"
+      "nav_path": "https://web.aynaott.com/live-tvs/rplus-gold"
     },
     {
       "id": "019de785-39a5-710a-a6eb-845e80fa8251",
@@ -2702,20 +2716,6 @@
         "Channels"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/assam-talks"
-    },
-    {
-      "id": "019de785-39a9-777d-a085-fd61ebb8ce7d",
-      "slug": "rplus-gold",
-      "title": "Rplus Gold",
-      "description": "R Plus Gold brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.\n",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Hindi"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/rplus-gold"
     },
     {
       "id": "019de785-39a7-750d-a029-c9ac049ccb6a",
@@ -2788,17 +2788,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/republic-bangla"
     },
     {
-      "id": "019de785-3995-7e6d-9338-21fd1417ccee",
-      "slug": "g-series",
-      "title": "G series",
-      "description": "G series brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg",
-      "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
-      "access_level": "free",
-      "categories": [],
-      "nav_path": "https://web.aynaott.com/live-tvs/g-series"
-    },
-    {
       "id": "019de785-399b-79d8-9d87-854339381669",
       "slug": "khushboo",
       "title": "Khushboo",
@@ -2811,6 +2800,31 @@
         "Indian Bangla"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/khushboo"
+    },
+    {
+      "id": "019de785-3995-7e6d-9338-21fd1417ccee",
+      "slug": "g-series",
+      "title": "G series",
+      "description": "G series brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg",
+      "stream_url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
+      "access_level": "free",
+      "categories": [],
+      "nav_path": "https://web.aynaott.com/live-tvs/g-series"
+    },
+    {
+      "id": "019de785-3982-77f6-b5ed-24caa6edc4c8",
+      "slug": "my-tv",
+      "title": "My TV",
+      "description": " My TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_6131ede1b10602da29f1271fff0cda77_playmist_my_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/my-tv"
     },
     {
       "id": "019de785-3993-7ccc-8bc0-184c2c761c69",
@@ -2827,6 +2841,20 @@
       "nav_path": "https://web.aynaott.com/live-tvs/thikana"
     },
     {
+      "id": "019de785-3988-7a1c-a527-25de8003964a",
+      "slug": "btv-world",
+      "title": "BTV World",
+      "description": "BTV World brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/btv-world"
+    },
+    {
       "id": "019de785-398d-7a57-87df-bc4eea15b0a4",
       "slug": "btv-news",
       "title": "BTV News",
@@ -2840,20 +2868,6 @@
         "Bangla"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/btv-news"
-    },
-    {
-      "id": "019de785-3988-7a1c-a527-25de8003964a",
-      "slug": "btv-world",
-      "title": "BTV World",
-      "description": "BTV World brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Bangla",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/btv-world"
     },
     {
       "id": "019de785-3986-7129-aee7-62a7ac202bec",
@@ -2884,18 +2898,18 @@
       "nav_path": "https://web.aynaott.com/live-tvs/ananda-tv"
     },
     {
-      "id": "019de785-3982-77f6-b5ed-24caa6edc4c8",
-      "slug": "my-tv",
-      "title": "My TV",
-      "description": " My TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_6131ede1b10602da29f1271fff0cda77_playmist_my_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
+      "id": "019de785-397e-718c-b601-253c31a282eb",
+      "slug": "bijoy-tv",
+      "title": "Bijoy TV",
+      "description": "Bijoy TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8",
       "access_level": "subscription",
       "categories": [
         "Channels",
         "Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/my-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/bijoy-tv"
     },
     {
       "id": "019de785-3980-7029-a5ea-c1e27b34c6d7",
@@ -2924,20 +2938,6 @@
         "Bangla"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/nexus-tv"
-    },
-    {
-      "id": "019de785-397e-718c-b601-253c31a282eb",
-      "slug": "bijoy-tv",
-      "title": "Bijoy TV",
-      "description": "Bijoy TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/bijoy-tv"
     },
     {
       "id": "019de785-397a-7df0-b523-b00c861be256",
@@ -3010,18 +3010,19 @@
       "nav_path": "https://web.aynaott.com/live-tvs/channel-9"
     },
     {
-      "id": "019de785-396c-7f21-9261-2bd1e5230130",
-      "slug": "sa-tv",
-      "title": "SA TV",
-      "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
-      "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
+      "id": "019de785-3968-7782-b69b-7c6151ae6fe1",
+      "slug": "dbc-news",
+      "title": "DBC News",
+      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
       "access_level": "subscription",
       "categories": [
+        "News",
         "Bangla",
         "Channels"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/sa-tv"
+      "nav_path": "https://web.aynaott.com/live-tvs/dbc-news"
     },
     {
       "id": "019de785-396e-7c75-b530-cb197f010279",
@@ -3036,6 +3037,35 @@
         "Bangla"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/asian-tv"
+    },
+    {
+      "id": "019de785-3966-7972-9dda-3707d71073ac",
+      "slug": "news-24-bd",
+      "title": "News 24 BD",
+      "description": "News 24 BD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_a401495935874d01a5dcd992c40c3a2d_playmist_news24.png",
+      "stream_url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels",
+        "News"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/news-24-bd"
+    },
+    {
+      "id": "019de785-396c-7f21-9261-2bd1e5230130",
+      "slug": "sa-tv",
+      "title": "SA TV",
+      "description": "SA TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
+      "stream_url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/sa-tv"
     },
     {
       "id": "019de785-396a-7e3b-ae50-1d20c8ce2323",
@@ -3053,34 +3083,46 @@
       "nav_path": "https://web.aynaott.com/live-tvs/independent-tv"
     },
     {
-      "id": "019de785-3968-7782-b69b-7c6151ae6fe1",
-      "slug": "dbc-news",
-      "title": "DBC News",
-      "description": "DBC News brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
+      "id": "019de785-3964-7509-9edd-8ad75adc1a89",
+      "slug": "ekhon-tv",
+      "title": "Ekhon TV",
+      "description": "\nEkhon TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_2ae0833e484c0a032e46050cbb8c9cc0_playmist_ekhon_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "News",
-        "Bangla",
-        "Channels"
+        "Channels",
+        "Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/dbc-news"
+      "nav_path": "https://web.aynaott.com/live-tvs/ekhon-tv"
     },
     {
-      "id": "019de785-3966-7972-9dda-3707d71073ac",
-      "slug": "news-24-bd",
-      "title": "News 24 BD",
-      "description": "News 24 BD brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_a401495935874d01a5dcd992c40c3a2d_playmist_news24.png",
-      "stream_url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8",
+      "id": "019de785-395b-7132-9cc9-b3571e766644",
+      "slug": "etv",
+      "title": "ETV",
+      "description": "ETV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Bangla",
         "Channels",
-        "News"
+        "Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/news-24-bd"
+      "nav_path": "https://web.aynaott.com/live-tvs/etv"
+    },
+    {
+      "id": "019de785-3960-7cad-a051-6b707a28890b",
+      "slug": "deepto-tv",
+      "title": "Deepto TV",
+      "description": "Maasranga TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_ebcb173e194bfeede20303e348b80999_playmist_deepto_tv_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Channels",
+        "Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/deepto-tv"
     },
     {
       "id": "019de785-3962-77a1-8f50-c541bb5a02c7",
@@ -3100,34 +3142,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/t-sports-hd"
     },
     {
-      "id": "019de785-3964-7509-9edd-8ad75adc1a89",
-      "slug": "ekhon-tv",
-      "title": "Ekhon TV",
-      "description": "\nEkhon TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_2ae0833e484c0a032e46050cbb8c9cc0_playmist_ekhon_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/ekhon-tv"
-    },
-    {
-      "id": "019de785-3960-7cad-a051-6b707a28890b",
-      "slug": "deepto-tv",
-      "title": "Deepto TV",
-      "description": "Maasranga TV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_ebcb173e194bfeede20303e348b80999_playmist_deepto_tv_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/deepto-tv"
-    },
-    {
       "id": "019de785-395d-7a37-8097-0780a16dc766",
       "slug": "maasranga-tv",
       "title": "Maasranga TV",
@@ -3140,20 +3154,6 @@
         "Bangla"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/maasranga-tv"
-    },
-    {
-      "id": "019de785-395b-7132-9cc9-b3571e766644",
-      "slug": "etv",
-      "title": "ETV",
-      "description": "ETV brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/etv"
     },
     {
       "id": "019de785-3959-77e1-84fb-723fe5548b8a",
@@ -3170,20 +3170,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/rtv"
     },
     {
-      "id": "019de785-3957-788f-a366-97dc52d1eced",
-      "slug": "bangla-vision",
-      "title": "Bangla Vision",
-      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
-      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Bangla",
-        "Channels"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/bangla-vision"
-    },
-    {
       "id": "019de785-3955-7c15-983a-4bc06362816a",
       "slug": "ntv",
       "title": "NTV",
@@ -3198,6 +3184,20 @@
       "nav_path": "https://web.aynaott.com/live-tvs/ntv"
     },
     {
+      "id": "019de785-3957-788f-a366-97dc52d1eced",
+      "slug": "bangla-vision",
+      "title": "Bangla Vision",
+      "description": "Bangla Vision brings you the best in entertainment, news, and informative programs for viewers of all ages, anytime, anywhere.",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
+      "stream_url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/bangla-vision"
+    },
+    {
       "id": "019de785-3953-7390-925e-0b52e8d2cf6b",
       "slug": "channel-i",
       "title": "Channel I",
@@ -3210,36 +3210,6 @@
         "Bangla"
       ],
       "nav_path": "https://web.aynaott.com/live-tvs/channel-i"
-    },
-    {
-      "id": "019de785-3947-7f58-bf5b-525377fb71bd",
-      "slug": "atn-news",
-      "title": "ATN News",
-      "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "Channels",
-        "News",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/atn-news"
-    },
-    {
-      "id": "019de785-3945-77dc-81be-262720b600b9",
-      "slug": "jamuna-tv",
-      "title": "Jamuna TV",
-      "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "News",
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/jamuna-tv"
     },
     {
       "id": "019de785-394b-769f-a201-f04269d4b8fb",
@@ -3272,21 +3242,6 @@
       "nav_path": "https://web.aynaott.com/live-tvs/channel-24"
     },
     {
-      "id": "019de785-393f-770a-ab0d-525a2d2a00dc",
-      "slug": "somoy-tv",
-      "title": "Somoy TV",
-      "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg",
-      "stream_url": "https://tvsen7.aynaott.com/Sports4/index.m3u8",
-      "access_level": "subscription",
-      "categories": [
-        "News",
-        "Channels",
-        "Bangla"
-      ],
-      "nav_path": "https://web.aynaott.com/live-tvs/somoy-tv"
-    },
-    {
       "id": "019de785-3941-7ff1-a7e5-67c5887e9142",
       "slug": "ekattor-tv",
       "title": "Ekattor TV",
@@ -3302,18 +3257,30 @@
       "nav_path": "https://web.aynaott.com/live-tvs/ekattor-tv"
     },
     {
-      "id": "019de785-393d-736a-baec-46d3bd635fed",
-      "slug": "btv",
-      "title": "BTV National",
+      "id": "019de785-3937-7e18-be86-47d2a7a4ab2d",
+      "slug": "test-live-tv",
+      "title": "Test Live TV",
       "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_25ab94e371e82ccbd0f03b2c7754c712_playmist_btv_national_400x400.jpg",
-      "stream_url": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png",
+      "stream_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
+      "access_level": "free",
+      "categories": [],
+      "nav_path": "https://web.aynaott.com/live-tvs/test-live-tv"
+    },
+    {
+      "id": "019de785-3947-7f58-bf5b-525377fb71bd",
+      "slug": "atn-news",
+      "title": "ATN News",
+      "description": "Test description for the test live tv",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8",
       "access_level": "subscription",
       "categories": [
-        "Bangla",
-        "Channels"
+        "Channels",
+        "News",
+        "Bangla"
       ],
-      "nav_path": "https://web.aynaott.com/live-tvs/btv"
+      "nav_path": "https://web.aynaott.com/live-tvs/atn-news"
     },
     {
       "id": "019de785-393b-7285-8d1f-87bdfc695eb2",
@@ -3331,15 +3298,48 @@
       "nav_path": "https://web.aynaott.com/live-tvs/sangeet-bangla"
     },
     {
-      "id": "019de785-3937-7e18-be86-47d2a7a4ab2d",
-      "slug": "test-live-tv",
-      "title": "Test Live TV",
+      "id": "019de785-3945-77dc-81be-262720b600b9",
+      "slug": "jamuna-tv",
+      "title": "Jamuna TV",
       "description": "Test description for the test live tv",
-      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png",
-      "stream_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
-      "access_level": "free",
-      "categories": [],
-      "nav_path": "https://web.aynaott.com/live-tvs/test-live-tv"
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "News",
+        "Channels",
+        "Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/jamuna-tv"
+    },
+    {
+      "id": "019de785-393f-770a-ab0d-525a2d2a00dc",
+      "slug": "somoy-tv",
+      "title": "Somoy TV",
+      "description": "Test description for the test live tv",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_9ba1cf96ea84cab5ce889111a44e7981_playmist_somoy_news_tv400x400.jpg",
+      "stream_url": "https://tvsen7.aynaott.com/Sports4/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "News",
+        "Channels",
+        "Bangla"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/somoy-tv"
+    },
+    {
+      "id": "019de785-393d-736a-baec-46d3bd635fed",
+      "slug": "btv",
+      "title": "BTV National",
+      "description": "Test description for the test live tv",
+      "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_25ab94e371e82ccbd0f03b2c7754c712_playmist_btv_national_400x400.jpg",
+      "stream_url": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8",
+      "access_level": "subscription",
+      "categories": [
+        "Bangla",
+        "Channels"
+      ],
+      "nav_path": "https://web.aynaott.com/live-tvs/btv"
     }
   ]
 }
