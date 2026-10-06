@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated: 2026-10-06 12:28:22 UTC
+# Generated: 2026-10-06 22:03:04 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
-# Total Channels: 230
+# Total Channels: 231
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="English, Channels, News",   	 USA TV [PAID]
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
@@ -582,6 +582,9 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a07-7ed8-95b9-91d3fcaea7c0" tvg-name="Sports Fishing TV" tvg-logo="https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d2bd056d0869" group-title="Channels, Sports",Sports Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="01a11291-2c1a-72fb-bf2d-bf03de6e974d" tvg-name="Sportv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-06/images_6b43965cf8ff9e05973fde793d1ba4d2_playmist_sportv_logo_png_seeklogo_424355.png" group-title="Channels, Football, Sports",Sportv [PAID]
+https://tvsen7.aynaott.com/shagor-backup/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-394b-769f-a201-f04269d4b8fb" tvg-name="Star News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4c8e446a0a7c9f1c28fd6aef2c19132d_playmist_star_news400x400.jpg" group-title="Channels, News, Bangla",Star News [PAID]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
