@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated: 2026-10-13 05:46:17 UTC
+# Generated: 2026-10-13 13:13:46 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
-# Total Channels: 231
+# Total Channels: 232
 
 #EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" group-title="English, Channels, News",   	 USA TV [PAID]
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
@@ -590,7 +590,7 @@ https://tvsen7.aynaott.com/shagor-backup/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3962-77a1-8f50-c541bb5a02c7" tvg-name="T Sports HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg" group-title="Football, Bangla, Channels, Cricket, Sports",T Sports HD [PAID]
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-e2e4-7850-80df-3f494edb3f78" tvg-name="TAQBEER" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bd701c683948a2e3ab1ca46d9e5e0b76.jpg" group-title="Religious, Channels",TAQBEER [PAID]
 https://tvsen7.aynaott.com/takbeer/index.m3u8
@@ -666,6 +666,9 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b9e-7f03-a443-6f49d828ee88" tvg-name="Wild TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg" group-title="English, Channels",Wild TV [PAID]
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 tvg-id="01a1354e-5a92-70b0-b6d5-9a089d27c2c7" tvg-name="Willow Sports 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg" group-title="Channels, Cricket, Sports, sports",Willow Sports 2 [PAID]
+https://tvsen7.aynaott.com/Sports1/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-39b9-7313-8fe1-ced68786a50b" tvg-name="Willow TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg" group-title="Cricket, Sports, Channels",Willow TV [PAID]
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
