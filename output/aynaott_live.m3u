@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-10-25 15:18:29 UTC
+# Generated: 2026-10-25 20:10:59 UTC
 # Developer: Kobir Shah
 # Source: https://github.com/MohammadKobirShah/aynaott-m3u
 # Total Channels: 232
@@ -605,7 +605,7 @@ https://tvsen7.aynaott.com/timetv/index.m3u8
 https://tvsen3.aynaott.com/EJagkNL2/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Sports, Channels",TNT Sport 1 [PAID]
-https://tvsen6.aynaott.com/TntSports1HD/index.m3u8
+https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3b9a-7ace-a6b9-3276da2bf5c3" tvg-name="TRT World" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bad71649a48765ea1bfa3b043822e061_playmist_trt_world_400x400.jpg" group-title="News, English, Channels",TRT World [PAID]
 https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8
